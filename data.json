@@ -21,7 +21,7 @@
       "age": "2 Meses",
       "address": "4140 Parker Rd. Allentown, New Mexico 31134",
       "species": "gato",
-      "image": "/images/img-gato-2.png",
+      "image": "https://res.cloudinary.com/karvaroz/image/upload/v1649874336/pets_app/img-gato-2_nfwny5.jpg",
       "personality": ["Cariñoso", "Inquieto", "Juguetón"],
       "story": "Pelusa es una gatita muy cariñosa, que siempre esta ahí para darle todo el amor que ella necesita. Fue rescatada y busca una persona que le pueda dar todo el amor que ella necesita.",
       "published": "Maria Dolores"
