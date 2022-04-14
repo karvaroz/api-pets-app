@@ -109,6 +109,8 @@
   ],
   "usuarios": [
     {
+      "userName": "admin",
+      "userLastname": "admin",
       "userEmail": "test@test.com",
       "userPassword": "123456789",
       "id": 1
